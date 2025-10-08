@@ -1,0 +1,6 @@
+{
+  "name": "BWS: Bookmark Work Space",
+  "description": "A futuristic, holographic workspace to manage your bookmarks and create to-do lists with a neon, matrix-style interface. Organize links, drag them into your workflow, and persist your session locally.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
